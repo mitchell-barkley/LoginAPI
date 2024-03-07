@@ -9,8 +9,15 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
 app.use(methodOverride('_method'));
 
+const apiRouter = require('./routes/api');
+app.use('/api', apiRouter);
+
 app.get('/', (req, res) => {
     res.render('index.ejs', { name: 'Mitchell' });
+});
+
+app.get('/login', (req, res) => {
+    res.render('login.ejs');
 });
 
 app.listen(port, () => {
