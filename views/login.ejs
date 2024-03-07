@@ -1,0 +1,28 @@
+<html lang = en >
+    <%- include('./partials/head.ejs') %>
+    <body>
+        <%- include('./partials/nav.ejs') %>
+        <h3>API Project</h3>
+        <h2>Welcome to the login page.</h2>
+        <form action="/login" method="post">
+            <div>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <div>
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+
+        <h2>Don't have an account? <a href="/register">Register</a></h2>
+        <form action="/register" method="get">
+            <div>
+                <input type="submit" value="Register">
+            </div>
+    </body>
+    <hr width="100%">
+    <%- include('./partials/foot.ejs') %>
