@@ -16,7 +16,7 @@ var addLogin = function (username, password) {
     });
 };
 
-var getLogin = function (username) {
+var getLogins = function () {
     if(DEBUG) console.log('services/pg.logins.dal.getLogin - called');
     return new Promise((resolve, reject) => {
         const sql = `SELECT * FROM public."Logins" ORDER BY id DESC;`;
@@ -33,5 +33,5 @@ var getLogin = function (username) {
 
 module.exports = {
     addLogin,
-    getLogin
+    getLogins
 };
