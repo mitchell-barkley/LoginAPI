@@ -13,11 +13,11 @@ const apiRouter = require('./routes/api');
 app.use('/api', apiRouter);
 
 app.get('/', (req, res) => {
-    res.render('index.ejs', { name: 'Mitchell' });
+    res.render('./index.ejs', { name: 'Mitchell' });
 });
 
 app.get('/login', (req, res) => {
-    res.render('login.ejs');
+    res.render('./login.ejs');
 });
 
 app.listen(port, () => {
