@@ -1,0 +1,181 @@
+[{
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170f5"
+    },
+    "username": "bcardello0",
+    "password": "$2a$04$arq6ZquCEn6HQSN346vpKOmJW3AhzVhhdH1VNMkUhs7O7qZ0ujTnu"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170f6"
+    },
+    "username": "efilyushkin1",
+    "password": "$2a$04$FRfo.O/OKlW/yNfQr2EAneouAo2Hsz8nF3KW0/QOCRxEe/t9u0t9m"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170f7"
+    },
+    "username": "hhorstead2",
+    "password": "$2a$04$XeKGA.5DstmruKyibKnn7OuNW8t1ckk6/EX.RwxBUc7p.xQdTgCPe"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170f8"
+    },
+    "username": "stoffano3",
+    "password": "$2a$04$HJhDyqvynq3UQRGEtUydTuHNfa47A0RK09edovL.2Ur70pUbdEXM."
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170f9"
+    },
+    "username": "hstrivens4",
+    "password": "$2a$04$FLUhOXpWPoEZbSUwppLk/.Uup8Ydpm1atxd6UnIZCHL8YXLiEYvu2"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170fa"
+    },
+    "username": "workney5",
+    "password": "$2a$04$msvOMKz6pymrHgQ5cVK7PeCZmaHc9sB2XeJ62l1QLUygoZENhnHPS"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170fb"
+    },
+    "username": "efysh6",
+    "password": "$2a$04$s010mzXaVtp/alf4Q7Z5QuPxi66pK00qgc3nFh3ZwutBj5Lj6pAO6"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170fc"
+    },
+    "username": "plammin7",
+    "password": "$2a$04$BJC6JnpJqE18PMVrKVDc6e0zeuNkGgcinjYhGjRCHHnFiBv2qHveG"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170fd"
+    },
+    "username": "vpettegree8",
+    "password": "$2a$04$v9FnAROSfZ.dPmc.xA43uux2MDjvqImkYO1QPfZ67hCXX8A0PHf/O"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170fe"
+    },
+    "username": "tblyth9",
+    "password": "$2a$04$PlQo1VyT8g7GibcIMSsHxumdLzXzpLD9mG.6MJ3XWAH4q7Raql1l2"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae63163170ff"
+    },
+    "username": "lwarmingtona",
+    "password": "$2a$04$rLuEMr/d15WOfgP059vE..nxR0b0h3yXg6/eSrJFKV1xZ4x2ivwS."
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317100"
+    },
+    "username": "lvinsenb",
+    "password": "$2a$04$8cIV54aLzovdQYm5VZI7wOW9jff8sK5SWK/BYrrHGg8u2KLwganSi"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317101"
+    },
+    "username": "ejecksc",
+    "password": "$2a$04$ycGvHHfc//W.s4/fHXhKieFZdadbC7sDc0zfiFR1OUehRoubac49K"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317102"
+    },
+    "username": "rauberyd",
+    "password": "$2a$04$PAcFFWmhcAI1D0DBovGeyOP8u.dmMhjFmZTZ0eFInZKTn45VS/ePe"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317103"
+    },
+    "username": "dclintone",
+    "password": "$2a$04$PcPMp9G0F.AwCDV9hxyizerRkHljuOM8TNIWRABVvgxmaskkcuY1O"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317104"
+    },
+    "username": "vhaigf",
+    "password": "$2a$04$wTzTjhOSez6R2cK.G386MuXJQue7L5Ty0LrA0t0nnZcMi.JQhVScu"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317105"
+    },
+    "username": "amolesg",
+    "password": "$2a$04$GWbkG1FhF/rWP39w3KaituXW.7B62dKMyBoCjI8bRGY9ezOfD7SCe"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317106"
+    },
+    "username": "griplyh",
+    "password": "$2a$04$sUWlWb9rmfyv4jQio4AqnOnU/.TmBGUHBdhXYM.gD2igz05YIX52C"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317107"
+    },
+    "username": "dashwoodi",
+    "password": "$2a$04$d1gbnmSf0ub18z7UfTqdmONDAGPQvCpM1swwxK4YQGT8nIVbAqGlO"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317108"
+    },
+    "username": "bcamellij",
+    "password": "$2a$04$Ci3z48Hf4HNJdJsVLgohG.FqSQGT4jpzJt41sD34ylyPwbd1.3FIe"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317109"
+    },
+    "username": "eluebbertk",
+    "password": "$2a$04$ErCnoq4d6txEb3xR173f9uQfRZ08R0smNqKu8hdeSny25Yp3u2LSy"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710a"
+    },
+    "username": "lmatterisl",
+    "password": "$2a$04$e.4.rdzrTEc/l9UE0WTJCeGZ3OBj19wJqDIG2MoSc.f9zomeGM/KG"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710b"
+    },
+    "username": "scamillettim",
+    "password": "$2a$04$TnPaOaImb2EZjoF.d2Qsi.YVI2ApoV6Cl2xYglbq3rdXmhsLTmcUi"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710c"
+    },
+    "username": "mthomazinn",
+    "password": "$2a$04$FBUUV8VRUAs78YJI4W2nD.Ds5S1kiVLghQZR9caiByRVHjT.ki.VS"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710d"
+    },
+    "username": "wmacardleo",
+    "password": "$2a$04$GuMj71Hpzl/8plh/8vkAgOPVvPx6vsHeWhRLSmeJIVr7ClnsyByMa"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710e"
+    },
+    "username": "kpetrulisp",
+    "password": "$2a$04$At0HMH..wFrCbqI0tdo5EOOWAB9zrbo5pcmPdxM7suPFnrxwgCNNC"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae631631710f"
+    },
+    "username": "hfeeneyq",
+    "password": "$2a$04$bTNxymPlrvVrCrgBwwqZ5O5XxjwhXnpWGZYEc22G8WWYe9FhMfdqm"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317110"
+    },
+    "username": "sjennor",
+    "password": "$2a$04$P8F8v62c3s0wAPueMd0b.OJDizKcaDUrSDlYl823rXn0es2JUD/bC"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317111"
+    },
+    "username": "sleonardss",
+    "password": "$2a$04$1MRi7xwMZKkivEbqvyZaoeEWL9UBAQ9PsbY2Gd7QpPKUWGAuPAtxe"
+  }, {
+    "_id": {
+      "$oid": "65f33b64fc13ae6316317112"
+    },
+    "username": "rmccowent",
+    "password": "$2a$04$XJmYkVh1uq/DFin.IZeKB.akRV3IVL0xWFI6FA9q9IXnND/osG0pS"
+  }]
