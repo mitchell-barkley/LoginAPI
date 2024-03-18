@@ -4,7 +4,7 @@ if (DEBUG) console.log('API - index.js - called');
 
 router.get('/', (req, res) => {
     if (DEBUG) console.log('routes/api/index.js - GET / - called');
-    res.send('API Home Page');
+    res.send('../api.ejs');
 });
 
 const loginsRouter = require('./logins.js');
