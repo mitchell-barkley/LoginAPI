@@ -1,5 +1,6 @@
 var router = require('express').Router();
 const loginsDal = require('../../services/pg.logins.dal.js');
+const loginsDal = require('../../services/m.logins.dal.js');
 
 if (DEBUG) console.log('API - logins.js - called');
 
